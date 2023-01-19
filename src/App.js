@@ -1,10 +1,11 @@
 
 import './App.css';
+import Mainpage from './components/Mainpage/Mainpage';
 
 function App() {
   return (
     <div >
-      <h1>yes! Good to go</h1>
+      <Mainpage />
     </div>
   );
 }
